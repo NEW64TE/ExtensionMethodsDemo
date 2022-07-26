@@ -6,7 +6,7 @@ namespace ExtensionMethodsDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string post = "This is a very very very very very very very very very very long blogpost...";
         }
     }
 }
