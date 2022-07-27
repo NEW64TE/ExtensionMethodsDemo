@@ -24,7 +24,7 @@ namespace ExtensionMethodsDemo
                 return str;
             }
 
-            return string.Join(" ", words.Take(numberOfWords));
+            return string.Join(" ", words.Take(numberOfWords)) + "...";
         }
     }
 }
